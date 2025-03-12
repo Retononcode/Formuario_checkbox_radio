@@ -1,4 +1,4 @@
-# Formuario_checkbox_radio
+# Formulario_checkbox_radio
 Formulario que envia respostas para whatsapp com opções
 Aqui está a documentação completa para utilização do formulário de contato com envio para WhatsApp.
 
